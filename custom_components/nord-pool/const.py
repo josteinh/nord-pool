@@ -1,7 +1,7 @@
 import voluptuous as vol
 from random import randint
 
-DOMAIN = "nordpool"
+DOMAIN = "nord-pool"
 RANDOM_MINUTE = randint(10, 30)
 RANDOM_SECOND = randint(0, 59)
 EVENT_NEW_HOUR = "nordpool_update_hour"

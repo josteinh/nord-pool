@@ -1,5 +1,5 @@
 {
-  "domain": "nordpool",
+  "domain": "nord-pool",
   "name": "Nord Pool",
   "after_dependencies": [
     "http"
